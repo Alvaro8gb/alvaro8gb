@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Machine learning model developer with medical data 🏥while I am studying computer engineering degree.<br><br>⌨️ Used to program efficiently using software design patterns 🔷.
+💻Machine learning model developer with medical data 🏥 while I am studying MSc in Data Science.<br><br>⌨️ Used to program efficiently using software design patterns 🔷.
 
 
 ## 🌐 Socials:
