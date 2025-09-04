@@ -1,6 +1,13 @@
 # 💫 About Me:
 
-💻Data Scientist specializing in the analysis and interpretation of medical data.🏥
+📊 Data Scientist specialized in the analysis of medical data, with 4+ years’ experience in data mining electronic medical records, using NLP & CV to extract insights and support clinical decision-making. 🏥
+
+
+🕰️Enthusiast of artificial intelligence systems applied to medicine to improve healthcare.⚙️
+
+🧤 Used to working in community in the Git environment as a software developer and maintainer.
+⌨️ Used to program efficiently, scalability and with software design patterns 🔷.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-garc%C3%ADa-barrag%C3%A1n/) 
